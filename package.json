@@ -2,7 +2,7 @@
     "name": "vs-code-mark-point",
     "displayName": "VS Code Mark/Point",
     "description": "A highlighting system similar to emacs based on marks/points.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "ericmccarthy",
     "engines": {
         "vscode": "^0.10.1"
@@ -32,6 +32,5 @@
     },
     "galleryBanner": {
         "color": "#EEE"        
-    },
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/48px-EmacsIcon.svg.png"
+    }
 }
