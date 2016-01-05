@@ -3,7 +3,7 @@
     "displayName": "VS Code Mark/Point",
     "description": "A highlighting system similar to emacs based on marks/points.",
     "version": "1.0.0",
-    "publisher": "github",
+    "publisher": "ericmccarthy",
     "engines": {
         "vscode": "^0.10.1"
     },
